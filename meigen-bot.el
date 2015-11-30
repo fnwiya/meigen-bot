@@ -1,4 +1,4 @@
-;;; meigen-bot.el --- Echo meigen randomly
+;;; meigen-bot.el --- Echo meigen randomly in Emacs mini-buffer
 
 ;; Author: fnwiya
 ;; URL: https://github.com/fnwiya/meigen-bot

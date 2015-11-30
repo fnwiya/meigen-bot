@@ -1,5 +1,5 @@
 # meigen-bot
-Echo meigen randomly
+Echo meigen randomly in Emacs mini-buffer
 
 ## Install
 put this package in your load-path-dir
